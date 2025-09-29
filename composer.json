@@ -1,0 +1,6 @@
+{
+    "require": {
+        "alibabacloud/oss-v2": "^0.3.1",
+        "qcloud/cos-sdk-v5": "^2.6"
+    }
+}
